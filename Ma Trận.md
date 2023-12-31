@@ -1,4 +1,4 @@
-Ma Trận Của Đề Thì Kiểm Tra Đầu Vào ( Mỗi 1 Câu là 0,25 Điểm Nên Đề Thi Có 40 Câu Trắc Nghiệm Và Đề Thi Khác Về Phần Tự )
+Ma Trận Của Đề Thì Kiểm Tra Đầu Vào
 * Đề Thứ Nhất(Trác Nghiệm)
 - Khái Niệm C++(1 Câu)
 - Phím Tắt Để Build Và Run (1 Câu)
@@ -11,5 +11,5 @@ Ma Trận Của Đề Thì Kiểm Tra Đầu Vào ( Mỗi 1 Câu là 0,25 Điể
 - Cấu Trúc Vòng Lặp For, While, Do While, Cấu Trúc Câu Lệnh (8 Câu)
 - Từ Đề Bài/ Hãy Chọn Ra Bài Lập Trình Đúng, Không Đúng(5 Câu)
 
--> Tổng 40 Câu, Mỗi Câu 0,25 Điểm, Làm Bài Trong 90 Phút.
-* Đề Thứ Hai(Tự Luận)(Coming Soon)
+-> Tổng 40 Câu, Mỗi Câu 0,25 Điểm, Thời Gian Làm Bài Trong 90 Phút.
+* Đề Thứ Hai(Tự Luận)(Coming Soon)(5 Câu, Mỗi Câu 2 Điểm, Thời Gian Làm Bài Trong 90 Phút)
