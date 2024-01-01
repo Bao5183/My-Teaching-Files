@@ -35,3 +35,5 @@
 - Từ 9,8 Điểm Trở Lên : Hoàn Hảo
 
 * Từ Ma Trận, Cách Tính Điểm Và Cách Xếp Loại Trên, Mong Các Bạn Ôn Thật Tốt Và Thi Thật Giỏi!!!
+
+*Thời Gian Ra Đề : 11 - 16/1/2024
