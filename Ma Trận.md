@@ -27,10 +27,10 @@
 
 * > Cách Xếp Loại(Loại Xếp Loại)
 - Từ 0 -> 2 Điểm : Yếu
-- Từ 2 -> 4 Điểm : Trung Bình
+- Từ 2,1 -> 3,9 Điểm : Trung Bình
 - Từ 4 -> 6 Điểm : Khá
-- Từ 6 -> 8 Điểm : Tốt
-- Từ 8 -> 9 Điểm : Rất Tốt
+- Từ 6,1 -> 8 Điểm : Tốt
+- Từ 8,1 -> 9, Điểm : Rất Tốt
 - Từ 9,5 Điểm Trở Lên : Xuất Sắc
 - Từ 9,8 Điểm Trở Lên : Hoàn Hảo
 
