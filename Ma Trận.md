@@ -38,5 +38,5 @@
 
 * Thời Gian Ra Đề : 13 - 19/1/2024
 
-* Tiến Trình Trắc Nghiệm : 7 %
+* Tiến Trình Trắc Nghiệm : 16 %
 * Tiến Trình Tự Luận : 0 %
