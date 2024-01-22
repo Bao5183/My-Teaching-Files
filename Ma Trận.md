@@ -6,12 +6,13 @@
 - Phím Tắt Để Build Và Run (1 Câu)
 - Tác Dụng Của Lệnh cin, cout (2 Câu)
 - Sau mỗi dòng lệnh phải có gì (1 Câu)
+- Include là gì?(1 Câu)
 - Các Loại Khai biến, Dữ Liệu Biến, Khung của kiểu dữ liệu, cách khai báo nào đúng ? (5 Câu)
-- Các Phép So Sánh,Các Phép Toán, Toán Tử Gán, Toán Tử Số Học, Câu Lệnh Gán, Những Cách Ghi Nào Sau Đây Là Sai? (7 Câu)
+- Các Phép So Sánh, Các Phép Toán, Toán Tử Gán, Toán Tử Số Học, Câu Lệnh Gán, Những Cách Ghi Nào Sau Đây Là Sai? (7 Câu)
 - Hằng Số Là Gì? Cách Để Biểu Diễn Hằng Số (1 Câu)
-- Cấu Trúc Rẽ Nhánh, Cấu Trúc Kiểm Tra Điều Kiện Dạng Thiếu Và Dạng Đủ (9 Câu)
+- Cấu Trúc Rẽ Nhánh, Cấu Trúc Kiểm Tra Điều Kiện Dạng Thiếu Và Dạng Đủ (5 Câu)
 - Cấu Trúc Vòng Lặp For, While, Do While, Cấu Trúc Câu Lệnh (8 Câu)
-- Từ Đề Bài/ Hãy Chọn Ra Bài Lập Trình Đúng, Không Đúng(5 Câu)
+- Từ Đề Bài/ Hãy Chọn Ra Bài Lập Trình Đúng, Không Đúng(8 Câu)
 - > Tổng 40 Câu, Mỗi Câu 0,25 Điểm, Thời Gian Làm Bài Trong 90 Phút.
 
 * Đề Thứ Hai(Tự Luận)
@@ -24,6 +25,7 @@
 * Cách Tính Điểm:
 
 - Lấy (Điểm Trắc Nghiệm + Điểm Tự Luận) / 2
+- Hoặc Lấy (Điểm Trắc Nghiệm * 0.6 + Điểm Tự Luận * 0.4)
 
 * > Cách Xếp Loại(Loại Xếp Loại)
 - Từ 0 -> 2 Điểm : Yếu
@@ -36,7 +38,7 @@
 
 * Từ Ma Trận, Cách Tính Điểm Và Cách Xếp Loại Trên, Mong Các Bạn Ôn Thật Tốt Và Thi Thật Giỏi!!!
 
-* Thời Gian Ra Đề : 13 - 19/1/2024
+* Thời Gian Ra Đề : 21 - 31/1/2024
 
 * Tiến Trình Trắc Nghiệm : 16 %
-* Tiến Trình Tự Luận : 0 %
+* Tiến Trình Tự Luận : 75 %
