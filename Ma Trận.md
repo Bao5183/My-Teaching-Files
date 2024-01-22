@@ -20,7 +20,7 @@
 - Viết Một Chương Trình Để Chạy Như Đề Bài (3 Câu : 1 Bài về Toán Tử Gán, Các Câu Lệnh Gán; 1 Bài Về Câu Điều Kiện; 1 Bài Về Vòng Lặp)
 - Viết Cấu Trúc Của Các Câu Lệnh Đề Cho(1 Câu)
 
-- > Tổng 4 Câu, Câu Viết Cấu Trúc 2 Điểm, Còn Lại 8 Điểm, Thời Gian Làm Bài Trong 90 Phút.
+- > Tổng 4 Câu, Câu Viết Cấu Trúc 1 Điểm, Còn Lại 9 Điểm, Thời Gian Làm Bài Trong 90 Phút.
 
 * Cách Tính Điểm:
 
